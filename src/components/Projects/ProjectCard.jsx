@@ -20,7 +20,7 @@ const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}> Site</a>
+        <a href={demo} className={styles.link} target="_blank"> Site</a>
         <a href={source} className={styles.link}>Source</a>
       </div>
     </div>
