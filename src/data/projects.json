@@ -4,23 +4,23 @@
         "imageSrc":"doctor.png",
        
         "skills":["HTML","CSS","JavaScript", "AngularJS",   "MySQL", "NodeJS"],
-        "demo":"www.somelink",
-        "source":"somegithublink.com"
+        "demo":"https://karalambana.onrender.com",
+        "source":"https://github.com/ViperKA03/Karalambana"
     },
     {
         "title":"Pathfinding and Visualizer",
         "imageSrc":"path.png",
         
         "skills":["HTML","CSS","JavaScript","ReactJS"],
-        "demo":"www.somelink",
-        "source":"somegithublink.com"
+        "demo":"https://path-finder-visualizer.onrender.com",
+        "source":"https://github.com/ViperKA03"
     },
     {
         "title":"iNotebook ",
         "imageSrc":"inote.png",
         
-        "skills":["ReactJS","Express","Node","Mongo","Thunderclient"],
-        "demo":"www.somelink",
-        "source":"somegithublink.com"
+        "skills":["ReactJS","Express","Node","Mongodb","Thunderclient"],
+        "demo":"https://inotebook-frontend-f02z.onrender.com",
+        "source":"https://github.com/ViperKA03/iNoteBook_Frontend"
     }
 ]
