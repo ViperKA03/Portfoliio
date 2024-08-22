@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Karalambana",
+        "imageSrc":"doctor.png",
+       
+        "skills":["HTML","CSS","JavaScript", "AngularJS",   "MySQL", "NodeJS"],
+        "demo":"www.somelink",
+        "source":"somegithublink.com"
+    },
+    {
+        "title":"Pathfinding and Visualizer",
+        "imageSrc":"path.png",
+        
+        "skills":["HTML","CSS","JavaScript","ReactJS"],
+        "demo":"www.somelink",
+        "source":"somegithublink.com"
+    },
+    {
+        "title":"iNotebook ",
+        "imageSrc":"inote.png",
+        
+        "skills":["ReactJS","Express","Node","Mongo","Thunderclient"],
+        "demo":"www.somelink",
+        "source":"somegithublink.com"
+    }
+]
